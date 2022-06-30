@@ -1,7 +1,7 @@
 The Source Code of OpSparse
 ========
 
-This repository contain the source code of OpSparse, cuSPARSE, nsparse, and spECK.
+This repository contain the source code of OpSparse, and part of the source code from [cuSPARSE](https://docs.nvidia.com/cuda/cusparse/index.html), [nsparse](https://github.com/EBD-CREST/nsparse.git), and [spECK](https://github.com/GPUPeople/spECK.git).
 ## Tested evironment
 CUDA 11.2, NVIDIA Tesla V100 GPU, Ubuntu 18.04 LTS
 
