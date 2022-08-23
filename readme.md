@@ -9,3 +9,16 @@ CUDA 11.2, NVIDIA Tesla V100 GPU, Ubuntu 18.04 LTS
 1 Execute ```$> bash download_matrix.sh``` in the current directory to download the matrix webbase-1M into matrix/suite_sparse directory
 
 2 For detailed execution instruction, refer the readme.md in the opsparse, nsparse, and speck sub-directory
+
+## Citation
+```
+@ARTICLE{9851653,
+  author={Du, Zhaoyang and Guan, Yijin and Guan, Tianchan and Niu, Dimin and Huang, Linyong and Zheng, Hongzhong and Xie, Yuan},
+  journal={IEEE Access}, 
+  title={OpSparse: A Highly Optimized Framework for Sparse General Matrix Multiplication on GPUs}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={85960-85974},
+  doi={10.1109/ACCESS.2022.3196940}}
+  ```
