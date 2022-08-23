@@ -10,7 +10,7 @@ CUDA 11.2, NVIDIA Tesla V100 GPU, Ubuntu 18.04 LTS
 
 2 For detailed execution instruction, refer the readme.md in the opsparse, nsparse, and speck sub-directory
 
-## Citation
+## Bibtex
 ```
 @ARTICLE{9851653,
   author={Du, Zhaoyang and Guan, Yijin and Guan, Tianchan and Niu, Dimin and Huang, Linyong and Zheng, Hongzhong and Xie, Yuan},
